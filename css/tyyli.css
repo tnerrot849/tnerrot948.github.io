@@ -11,8 +11,8 @@ p {
 }
 .divelement {
   border-style: dotted;
-  border-width: 100px;
-  border-height: 100px;
+  width: 100px;
+  height: 100px;
 }
 ul {
   list-style-type: square;
